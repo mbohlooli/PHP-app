@@ -18,6 +18,6 @@ function get_title(){
     #page title
 }
 function get_content(){?>
-#html codes
-<?php
+    <!--html codes-->
+<?php }
 ```

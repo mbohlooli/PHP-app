@@ -12,7 +12,7 @@ To add page to this project make a php file in templates/modules
 
 write this content in the page:
 
-,,,php
+```php
 <?php
 function get_title(){
     #page title
@@ -20,4 +20,4 @@ function get_title(){
 function get_content(){?>
 #html codes
 <?php
-,,,
+```

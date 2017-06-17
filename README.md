@@ -1,5 +1,13 @@
 # Simple PHP app
 
+## configuration
+
+chage these content in config.php
+
+```php
+define("SITE_URL", your url);
+```
+
 This is a simple app working by users and sqlite.
 
 > You can create, read, update & delete users with this app (CRUD)
